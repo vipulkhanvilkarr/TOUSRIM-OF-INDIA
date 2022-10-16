@@ -1,0 +1,40 @@
+*
+	{	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: 'sans-serif;', sans-serif;
+
+}
+header
+{
+	width: 100%; height: 100%;
+	background-image:url("img/mumbai_sealink.jpg");
+	background-size: cover;
+	color: white;
+	align-items: center;
+
+}
+div h1{
+	font-size: 40px;
+	color: #000;
+	font-weight: bold;
+	font-family: 'sans-serif;', sans-serif;
+	text-align: center;
+	align-items: center;
+	display: inline-flex; justify-content: space-between;
+
+}
+
+section p{
+	font-size: 15px;
+	text-align: center;
+	display: flex; justify-content: space-between;
+	word-spacing: 2px;
+	margin-bottom: 25px;
+	color: black
+}
+section p{
+	text-align: center;
+	align-items: center;
+}
+	
