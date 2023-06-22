@@ -2,7 +2,7 @@
 
 This beginner-friendly project teaches HTML and CSS basics for building a Tourism of India website. It introduces Tailwind CSS and Tailwind Blocks. The website showcases India's tourist destinations, cultural attractions, and travel information.
 
-You can visit the website here. 
+You can visit the website here. https://vipulkhanvilkarr.github.io/TOUSRIM-OF-INDIA/
 
 Technologies Used
 HTML
