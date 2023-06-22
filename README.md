@@ -14,7 +14,7 @@ The Tourism of India Website provides a visually appealing and informative platf
 Getting Started
 To set up the project locally or use the website templates, follow these steps:
 
-Clone the repository to your local machine using the command git clone https://github.com/your-username/your-repo.git.
+Clone the repository to your local machine using the command [git clone https://github.com/your-username/your-repo.gi](https://github.com/vipulkhanvilkarr/TOUSRIM-OF-INDIA)t.
 Open the project folder in your preferred code editor.
 Customize the website content by editing the HTML files.
 Modify the CSS files to personalize the website's styling.
